@@ -13,20 +13,21 @@ Este projeto foi desenvolvido como método de avaliação utilizando o cypress.
 ```sh
 cd mEnvio
 npm install
+npm install faker
 ```
 
 ### Executando os testes
 
 ```sh
-./node_modules/.bin/cypress open
+npx cypress run
 
 ou
 
 $(npm bin)/cypress run
 
 ou
+./node_modules/.bin/cypress open
 
-npx cypress run
 ```
 
 
