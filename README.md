@@ -7,11 +7,10 @@ Este projeto foi desenvolvido como método de avaliação utilizando o cypress.
 <https://www.npmjs.com/package/mochawesome> <br>
 
 
-### Configuração do ambiente
+### Instalando ambiente
 
 
 ```sh
-cd mEnvio
 npm install
 npm install faker
 ```
