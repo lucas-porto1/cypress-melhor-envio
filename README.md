@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como método de avaliação utilizando o cypress.
 
 <https://www.cypress.io> <br>
 <https://www.npmjs.com/package/mochawesome> <br>
+https://www.npmjs.com/package/faker 
 
 
 ### Instalando ambiente
