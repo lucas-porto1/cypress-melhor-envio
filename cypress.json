@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://sandbox.melhorenvio.com.br/cadastre-se",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "cypress/report",
+      "overwrite": false,
+      "html": false,
+      "json": true,
+      "timestamp": "mmddyyyy_HHMMss"
+   }
+}
